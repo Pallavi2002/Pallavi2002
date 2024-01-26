@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Pallavi Shewale</h1>
-<h3 align="center">A passionate Data analyst from India</h3>
+<h3 align="center">A passionate Java Developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://www.iihglobal.com/wp-content/uploads/2019/02/dcsad.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pallavi2002&label=Profile%20views&color=0e75b6&style=flat" alt="pallavi2002" /> </p>
 
-- 🌱 I’m currently learning **Tableau**
+- 🌱 I’m currently learning new technologies in Java
 
 - 📫 How to reach me **pallavishewale7112@gmail.com**
 
